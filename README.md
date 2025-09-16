@@ -28,7 +28,7 @@ Our mission is simple:
 - ⭐ Star this repo to follow our progress  
 - 🧩 Contribute ideas or accessibility improvements  
 - 🤝 Partner with us for user testing or outreach  
-- 💵 Support our [Fundraiser on Give.Asia](https://give.asia/campaign/guide-blindvisuallyimpaired-with-obstax#/story)  
+- 💵 Support our [**Fundraiser on Give.Asia**](https://give.asia/campaign/guide-blindvisuallyimpaired-with-obstax#/story)  
 
 
 ## 🏆 Recognition
